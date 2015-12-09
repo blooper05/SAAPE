@@ -1,0 +1,25 @@
+{
+  "lib": {
+    "name": "bower-rails generated lib assets",
+    "dependencies": {
+      // "threex"      : "git@github.com:rharriso/threex.git",
+      // "gsvpano.js"  : "https://github.com/rharriso/GSVPano.js/blob/master/src/GSVPano.js"
+    }
+  },
+  "vendor": {
+    "name": "bower-rails generated vendor assets",
+    "dependencies": {
+      "lodash": "~1.2.1",
+      "handlebars": "4.0.0",
+      "jquery-validation": "1.14.0",
+      "jquery-ui": "1.11",
+      "lightslider": "1.1.5",
+      "jquery.cookie": "1.4.1",
+      "flexslider": "2.5.0",
+      "pickadate": "3.5.6",
+      "ajaxzip3": "*",
+      "social-likes": "3.0.15"
+    }
+  }
+}
+
